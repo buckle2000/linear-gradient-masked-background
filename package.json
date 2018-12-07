@@ -1,0 +1,9 @@
+{
+  "devDependencies": {
+    "pug": "^2.0.3",
+    "stylus": "^0.54.5"
+  },
+  "dependencies": {
+    "animejs": "^2.2.0"
+  }
+}
